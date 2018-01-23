@@ -1,4 +1,4 @@
 Personal Website
 ================
 
-This repository contains all the files used in my personal website. :)
+This repository is the exact clone of my website. :)
