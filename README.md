@@ -1,6 +1,7 @@
 # naveenniraula.com.np
 
 > My personal website.
+> Visit my website [https://naveenniraula.com.np/](https://naveenniraula.com.np/)
 
 ## Build Setup
 
